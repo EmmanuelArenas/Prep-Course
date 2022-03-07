@@ -1,0 +1,18 @@
+Conceptos
+
+Variables:  Es espacio en memoria que se le da un nombre para agregar un valor.
+
+String:     Es un tipo de dato que almacena texto, siempre y cuando este entre
+            comillas simples o dobles.
+
+Funciones (argumento, return): Son objetos dentro de la programacion a los
+            cuales puedes llamar con su nombre cuando sea necesario. Los argumentos
+            son las variables que se ocuparan para realizar la acción que necesitemos.
+            Para poder mostrar el resultado de esa funcion se ocupa return con los
+            parametros que queremos realizar con las variables.
+
+Declaraciones if: Se ocupa para verificar si algo es verdadero o falso. Lo cual
+            le permite al codigo seguir avanzado o detenerse segun sea necesario.
+
+Valores Boleanos(true, false): Es un tipo de dato basado en codigo binario que solo
+            tiene dos valores 'true' y 'false'
