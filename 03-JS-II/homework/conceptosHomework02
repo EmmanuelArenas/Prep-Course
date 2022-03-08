@@ -1,0 +1,13 @@
+//Conceptos
+for:Es un bucle parecido al if. Se dedica a evlauar expresiones hasta que se cumplan
+    los argumentos. Su estructura esta compuesta de la palabra clave 'for', seguido
+    de parentesis y luego llaves. Dentro del parentesis se declaran una variable, una
+    expresión condicional y un incremento en la variable.
+
+&&: Operador logico llamado 'and',  'Y'. Evalua ambas expresiones. Si alguna de ellas
+    es erronea de acuerdo a los argumentos el resultado sera false de lo contrario sera true.
+
+||: Operador logico llamado 'O', 'OR'. Evalua ambas expresiones. Si se cumple alguna de
+    ellas o ambas resultara true. Si ambas son erroneas resultara false.
+
+!:  Operador 'Not', 'NO' para negar. Es decir retornara un valor booleano opuesto.
