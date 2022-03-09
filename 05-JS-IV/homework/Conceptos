@@ -1,0 +1,19 @@
+Conceptos
+
+Objetos:Es un elemento que tiene diferentes propiedades. Puede almacenar diferentes
+        tipos de datos dentro de sus propiedades.
+
+Propiedades: Son asociaciones entre un nombre y un valor. El valor de una propiedad
+        puede ser una función en tal caso la propiedad es conocida como un método.
+
+Métodos: Es una función de una propiedad de un objeto. Hay dos tipos de métodos.
+	1.- Métodos de instancia.
+	2.- Métodos estáticos.
+
+Bucle for…in: Es una declaración sobre las propiedades enumerables de un objeto codificados
+      por cadenas. Incluye propiedades enumerables heredadas.
+
+Notación de puntos vs notación de corchetes: Ambas pueden acceder a las propiedades de los
+      objetos. Notación  de puntos es mucho más fácil de leer y más rápido de escribir,
+      sus desventajas es que tiene problemas para trabajar con identificadores y con variables.
+      Notación de corchetes permite el acceso dinámico a los atributos. 
