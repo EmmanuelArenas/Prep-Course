@@ -1,0 +1,6 @@
+Conceptos
+
+Prototype: Con este mecanismo ayudas ahorrando memoria de una computadora.
+            Con prototype los objetos heredan características. 
+
+Constructor: Es una función especial para crear e inicializar un objeto creado a partir de una clase.
