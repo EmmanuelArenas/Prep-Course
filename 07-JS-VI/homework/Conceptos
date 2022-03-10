@@ -1,0 +1,3 @@
+Conceptos
+Funciones CallBack: Pasan de una función con argumentos a otra función.
+          La convención es usar “cb” como argumento para la variable.
