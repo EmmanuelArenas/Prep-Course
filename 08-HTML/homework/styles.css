@@ -4,15 +4,26 @@ h1 {
 img {
   width: 400px;
 }
+/*divs*/
+.divClass {
+  display: flex;
+  flex-direction: column;
+}
 #thirdDiv {
   height: 600px;
   width: 500px;
-  background: grey;
+  background: Gainsboro;
   padding: 50px;
   border: purple 2px dotted;
+  margin: auto;
 }
 #spanId {
   font-size: 18px;
   margin: 50px;
   padding: 50px;
+}
+
+body {
+  background-image: url("https://images3.alphacoders.com/812/thumb-1920-812062.png");
+  text-align: center;
 }
