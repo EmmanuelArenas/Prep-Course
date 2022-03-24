@@ -1,0 +1,43 @@
+/*Class*/
+.divTitle {
+  align-content: center;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.divP {
+  align-content: center;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+.divSkills {
+  float: left;
+}
+.divImg {
+  display: inline-block;
+}
+.divHobbies {
+  float: right;
+}
+/*ID*/
+#container {
+  width: 100%;
+  text-align: center;
+}
+/*Tags*/
+body {
+  background-color: Azure;
+}
+img {
+  border-radius: 50%;
+  width: 200px;
+}
+span {
+  font-weight: bold;
+}
